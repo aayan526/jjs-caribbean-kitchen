@@ -1,0 +1,6 @@
+{
+  "name": "JJ's Caribbean Kitchen",
+  "description": "Authentic Jamaican cuisine in Manchester UK. Taste the sunshine with our signature jerk chicken, curried goat, oxtail, and island hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
